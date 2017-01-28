@@ -27,5 +27,13 @@ public class DeckTest {
          assertEquals("testing the deck size", expected, actual);
     }
 
+    @Test
+    public void drawOnetest(){
+        test.drawOne();
+        int expected = 51;
+        int actual = test.getDeckSize();
+        assertEquals("Deck will decrease by one", expected, actual);
+    }
+
 
 }
