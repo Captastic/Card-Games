@@ -6,7 +6,8 @@ import java.util.Scanner;
  * Created by anthonycapriotti on 1/28/17.
  */
 public class GoFish extends CardGame {
-    Scanner scanner = new Scanner(System.in);
+    CheckForPairs checkForPairs = new CheckForPairs();
+     public int playerBookCount, dealerBookCount;
 
 
     public GoFish(){
@@ -47,7 +48,21 @@ public class GoFish extends CardGame {
     }
 
     public void checkForPairs(){
+        checkForPairs.setRankCount(playerHand);
+    }
 
+    public void removeBooks(){
+
+        while (checkForPairs.getBook() != null){
+            System.out.println("You have a book of " + checkForPairs.getBook());
+            playerBookCount++;
+
+            for(int i =0; i < getPlayerHandCount(); i++){
+                if(playerHand.get(i).getRank().equals(checkForPairs.getBook())){
+                    playerHand.remove(i);
+                }
+            }
+        }
     }
 
 

@@ -70,6 +70,14 @@ public class GoFishTest {
         assertEquals("Card is removed from players hand", expected, actual);
     }
 
+    @Test
+    public void removeBookTest(){
+
+
+
+
+    }
+
 
 
 
