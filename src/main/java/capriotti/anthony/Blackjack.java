@@ -77,6 +77,18 @@ public class Blackjack extends CardGame {
         playersCash += bet;
     }
 
+    public void surrender(){
+        playersCash += .5 * bet;
+    }
+
+    public void setAce(Card card){
+        card.rank = Card.Rank.ACE;
+    }
+
+    public void setBlackJackAce(Card card){
+        card.rank = Card.Rank.BLACK_JACK_ACE;
+    }
+
     public void setDealersPoints(ArrayList<Card> hand){
         for (Card card : hand) {
             dealersPoints += card.getRank().getValue();
@@ -87,6 +99,7 @@ public class Blackjack extends CardGame {
             playersPoints += card.getRank().getValue();
         }
     }
+
 
 
 

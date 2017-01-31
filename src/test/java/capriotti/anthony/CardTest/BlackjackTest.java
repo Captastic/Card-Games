@@ -94,6 +94,26 @@ public class BlackjackTest {
     }
 
     @Test
+    //testing a "surrender"
+    public void surrenderTest(){
+        double expected = 50;
+        black.setBet(100);
+        black.surrender();
+        double actual = black.getPlayersCash();
+        assertEquals("Testing surrender logic for player surrender", expected, actual, 0);
+    }
+
+    @Test
+    //testing black jack ace value of 11
+    public void blackJackAceTest(){
+        Card card = new Card(0, 13);
+        black.setBlackJackAce(card);
+        double expected = 11;
+        double actual = card.getRank().getValue();
+        assertEquals("testing 11 value ace", expected, actual, 0);
+    }
+
+    @Test
     //testing dealers cards rank total
     public void setDealerPointsTest(){
         Card card = new Card(0,9);
