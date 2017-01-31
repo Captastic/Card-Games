@@ -1,6 +1,5 @@
 package capriotti.anthony;
 
-import java.util.Scanner;
 
 /**
  * Created by anthonycapriotti on 1/28/17.

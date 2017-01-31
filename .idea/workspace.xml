@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00971185-acf3-48fe-b21c-d83b6af5bdbe" name="Default" comment="" />
+    <list default="true" id="00971185-acf3-48fe-b21c-d83b6af5bdbe" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/capriotti/anthony/GoFish.class" afterPath="$PROJECT_DIR$/target/classes/capriotti/anthony/GoFish.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/capriotti/anthony/CardTest/GoFishTest.class" afterPath="$PROJECT_DIR$/target/test-classes/capriotti/anthony/CardTest/GoFishTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/capriotti/anthony/Card.java" afterPath="$PROJECT_DIR$/src/main/java/capriotti/anthony/Card.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/capriotti/anthony/CardGame.java" afterPath="$PROJECT_DIR$/src/main/java/capriotti/anthony/CardGame.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/capriotti/anthony/GoFish.java" afterPath="$PROJECT_DIR$/src/main/java/capriotti/anthony/GoFish.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/GoFishTest.java" afterPath="$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/GoFishTest.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,50 +35,71 @@
     <favorites_list name="CardGames" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="GoFish.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/GoFish.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Card.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/Card.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-218">
-              <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="270">
+              <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
               <folding>
-                <element signature="method#playerAskForRank#0;class#GoFish#0" expanded="false" />
-                <element signature="e#1183#1184#0" expanded="true" />
-                <element signature="e#1237#1238#0" expanded="true" />
+                <element signature="method#Card#0;class#Card#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoFishTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/GoFishTest.java">
+      <file leaf-file-name="Blackjack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/Blackjack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="74" column="8" lean-forward="false" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+            <state relative-caret-position="1290">
+              <caret line="86" column="55" lean-forward="false" selection-start-line="86" selection-start-column="55" selection-end-line="86" selection-end-column="55" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#707#708#0" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+                <element signature="e#869#870#0" expanded="true" />
+                <element signature="e#905#906#0" expanded="true" />
+                <element signature="e#943#944#0" expanded="true" />
+                <element signature="e#977#978#0" expanded="true" />
+                <element signature="e#1011#1012#0" expanded="true" />
+                <element signature="e#1041#1042#0" expanded="true" />
+                <element signature="e#1075#1076#0" expanded="true" />
+                <element signature="e#1105#1106#0" expanded="true" />
+                <element signature="e#1135#1136#0" expanded="true" />
+                <element signature="e#1161#1162#0" expanded="true" />
+                <element signature="e#1201#1202#0" expanded="true" />
+                <element signature="e#1229#1230#0" expanded="true" />
+                <element signature="e#1253#1254#0" expanded="true" />
+                <element signature="e#1293#1294#0" expanded="true" />
+                <element signature="e#1318#1319#0" expanded="true" />
+                <element signature="e#1352#1353#0" expanded="true" />
+                <element signature="e#1382#1383#0" expanded="true" />
+                <element signature="e#1422#1423#0" expanded="true" />
+                <element signature="e#1447#1448#0" expanded="true" />
+                <element signature="e#1481#1482#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckForPairsTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/CheckForPairsTest.java">
+      <file leaf-file-name="CardGame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/CardGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="41" column="40" lean-forward="false" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+            <state relative-caret-position="135">
+              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Deck.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/Deck.java">
+      <file leaf-file-name="BlackjackTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/BlackjackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="43" selection-end-column="23" />
+            <state relative-caret-position="1740">
+              <caret line="118" column="27" lean-forward="false" selection-start-line="118" selection-start-column="27" selection-end-line="118" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,6 +116,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -96,16 +128,21 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/capriotti/anthony/Card.java" />
         <option value="$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/CardTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/capriotti/anthony/Deck.java" />
         <option value="$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/DeckTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/capriotti/anthony/CardGame.java" />
         <option value="$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/CardGameTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/capriotti/anthony/CheckForPairs.java" />
         <option value="$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/CheckForPairsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/capriotti/anthony/GoFish.java" />
         <option value="$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/GoFishTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/capriotti/anthony/GameMenu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/capriotti/anthony/GoFish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/capriotti/anthony/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/BlakJackTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/capriotti/anthony/Card.java" />
+        <option value="$PROJECT_DIR$/src/main/java/capriotti/anthony/Blackjack.java" />
+        <option value="$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/BlackjackTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/capriotti/anthony/CardGame.java" />
       </list>
     </option>
   </component>
@@ -123,8 +160,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="709" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -142,8 +180,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -240,10 +278,9 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.GoFishTest.dealerAsksForRankTest">
-    <configuration default="false" name="GoFishTest.getDealerHandCountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BlackjackTest.setPlayersPointsTotal">
+    <configuration default="false" name="BlakJackTest.blackjackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="capriotti.anthony.CardTest.*" />
@@ -254,8 +291,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="capriotti.anthony.CardTest" />
-      <option name="MAIN_CLASS_NAME" value="capriotti.anthony.CardTest.GoFishTest" />
-      <option name="METHOD_NAME" value="getDealerHandCountTest" />
+      <option name="MAIN_CLASS_NAME" value="capriotti.anthony.CardTest.BlakJackTest" />
+      <option name="METHOD_NAME" value="blackjackTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -269,7 +306,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="GoFishTest.playerAsksForRankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="BlackjackTest.pushTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="capriotti.anthony.CardTest.*" />
@@ -280,8 +317,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="capriotti.anthony.CardTest" />
-      <option name="MAIN_CLASS_NAME" value="capriotti.anthony.CardTest.GoFishTest" />
-      <option name="METHOD_NAME" value="playerAsksForRankTest" />
+      <option name="MAIN_CLASS_NAME" value="capriotti.anthony.CardTest.BlackjackTest" />
+      <option name="METHOD_NAME" value="pushTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -295,7 +332,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="GoFishTest.dealerAsksForRankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="BlackjackTest.winTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="capriotti.anthony.CardTest.*" />
@@ -306,8 +343,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="capriotti.anthony.CardTest" />
-      <option name="MAIN_CLASS_NAME" value="capriotti.anthony.CardTest.GoFishTest" />
-      <option name="METHOD_NAME" value="dealerAsksForRankTest" />
+      <option name="MAIN_CLASS_NAME" value="capriotti.anthony.CardTest.BlackjackTest" />
+      <option name="METHOD_NAME" value="winTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -321,7 +358,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="CheckForPairsTest.checkForPairsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="BlackjackTest.setDealerPointsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="capriotti.anthony.CardTest.*" />
@@ -332,8 +369,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="capriotti.anthony.CardTest" />
-      <option name="MAIN_CLASS_NAME" value="capriotti.anthony.CardTest.CheckForPairsTest" />
-      <option name="METHOD_NAME" value="checkForPairsTest" />
+      <option name="MAIN_CLASS_NAME" value="capriotti.anthony.CardTest.BlackjackTest" />
+      <option name="METHOD_NAME" value="setDealerPointsTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -347,7 +384,7 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="CheckForPairsTest.getBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="BlackjackTest.setPlayersPointsTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="capriotti.anthony.CardTest.*" />
@@ -358,8 +395,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="capriotti.anthony.CardTest" />
-      <option name="MAIN_CLASS_NAME" value="capriotti.anthony.CardTest.CheckForPairsTest" />
-      <option name="METHOD_NAME" value="getBookTest" />
+      <option name="MAIN_CLASS_NAME" value="capriotti.anthony.CardTest.BlackjackTest" />
+      <option name="METHOD_NAME" value="setPlayersPointsTotal" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -610,6 +647,7 @@
       <setting name="passParentEnv" value="true" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -731,6 +769,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -747,19 +791,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.GoFishTest.getDealerHandCountTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.GoFishTest.playerAsksForRankTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.GoFishTest.dealerAsksForRankTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CheckForPairsTest.checkForPairsTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CheckForPairsTest.getBookTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.BlakJackTest.blackjackTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.BlackjackTest.pushTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.BlackjackTest.winTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.BlackjackTest.setDealerPointsTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.BlackjackTest.setPlayersPointsTotal" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.GoFishTest.dealerAsksForRankTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CheckForPairsTest.getBookTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CheckForPairsTest.checkForPairsTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.GoFishTest.playerAsksForRankTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.GoFishTest.getDealerHandCountTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.BlackjackTest.setPlayersPointsTotal" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.BlackjackTest.setDealerPointsTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.BlackjackTest.winTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.BlackjackTest.pushTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.BlakJackTest.blackjackTest" />
       </list>
     </recent_temporary>
   </component>
@@ -773,44 +817,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1485552244758</updated>
-      <workItem from="1485552246204" duration="32911000" />
+      <workItem from="1485552246204" duration="35669000" />
+      <workItem from="1485782757453" duration="1083000" />
+      <workItem from="1485799795818" duration="14474000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CheckForPairsTest_checkForPairsTest - 2017.01.28 at 17h 06m 16s.xml">
-      <configuration name="CheckForPairsTest.checkForPairsTest" configurationId="JUnit" />
+    <history-entry file="BlackjackTest_pushTest - 2017.01.30 at 15h 36m 14s.xml">
+      <configuration name="BlackjackTest.pushTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckForPairsTest_checkForPairsTest - 2017.01.28 at 17h 06m 36s.xml">
-      <configuration name="CheckForPairsTest.checkForPairsTest" configurationId="JUnit" />
+    <history-entry file="BlackjackTest_pushTest - 2017.01.30 at 15h 39m 55s.xml">
+      <configuration name="BlackjackTest.pushTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckForPairsTest_getBookTest - 2017.01.28 at 18h 38m 11s.xml">
-      <configuration name="CheckForPairsTest.getBookTest" configurationId="JUnit" />
+    <history-entry file="BlackjackTest_setDealerPointsTest - 2017.01.30 at 17h 12m 12s.xml">
+      <configuration name="BlackjackTest.setDealerPointsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckForPairsTest_getBookTest - 2017.01.28 at 18h 38m 31s.xml">
-      <configuration name="CheckForPairsTest.getBookTest" configurationId="JUnit" />
+    <history-entry file="BlackjackTest_setDealerPointsTest - 2017.01.30 at 17h 13m 57s.xml">
+      <configuration name="BlackjackTest.setDealerPointsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CheckForPairsTest_getBookTest - 2017.01.28 at 18h 40m 10s.xml">
-      <configuration name="CheckForPairsTest.getBookTest" configurationId="JUnit" />
+    <history-entry file="BlackjackTest_setDealerPointsTest - 2017.01.30 at 17h 14m 29s.xml">
+      <configuration name="BlackjackTest.setDealerPointsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoFishTest_dealerAsksForRankTest - 2017.01.28 at 19h 34m 13s.xml">
-      <configuration name="GoFishTest.dealerAsksForRankTest" configurationId="JUnit" />
+    <history-entry file="BlackjackTest_setDealerPointsTest - 2017.01.30 at 17h 16m 25s.xml">
+      <configuration name="BlackjackTest.setDealerPointsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoFishTest_dealerAsksForRankTest - 2017.01.28 at 19h 34m 31s.xml">
-      <configuration name="GoFishTest.dealerAsksForRankTest" configurationId="JUnit" />
+    <history-entry file="BlackjackTest_setDealerPointsTest - 2017.01.30 at 17h 16m 59s.xml">
+      <configuration name="BlackjackTest.setDealerPointsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoFishTest_dealerAsksForRankTest - 2017.01.28 at 19h 35m 23s.xml">
-      <configuration name="GoFishTest.dealerAsksForRankTest" configurationId="JUnit" />
+    <history-entry file="BlackjackTest_setPlayersPointsTotal - 2017.01.30 at 17h 24m 12s.xml">
+      <configuration name="BlackjackTest.setPlayersPointsTotal" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoFishTest_dealerAsksForRankTest - 2017.01.28 at 19h 35m 57s.xml">
-      <configuration name="GoFishTest.dealerAsksForRankTest" configurationId="JUnit" />
+    <history-entry file="BlackjackTest_setPlayersPointsTotal - 2017.01.30 at 17h 24m 35s.xml">
+      <configuration name="BlackjackTest.setPlayersPointsTotal" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GoFishTest_dealerAsksForRankTest - 2017.01.28 at 19h 38m 20s.xml">
-      <configuration name="GoFishTest.dealerAsksForRankTest" configurationId="JUnit" />
+    <history-entry file="BlackjackTest_winTest - 2017.01.30 at 15h 41m 32s.xml">
+      <configuration name="BlackjackTest.winTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32911000" />
+    <option name="totallyTimeSpent" value="51226000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -822,38 +868,38 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5582386" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1558966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282572" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5566836" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21728595" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39939025" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39763114" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -864,7 +910,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -873,13 +919,123 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/CardTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/GoFish.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="285">
+          <caret line="19" column="35" lean-forward="false" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="method#playerAskForRank#0;class#GoFish#0" expanded="false" />
+            <element signature="method#dealerAskForRank#0;class#GoFish#0" expanded="false" />
+            <element signature="method#removeBooks#0;class#GoFish#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/GoFishTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/CardGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/CheckForPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="method#setRankCount#0;class#CheckForPairs#0" expanded="false" />
+            <element signature="method#getBook#0;class#CheckForPairs#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/CheckForPairsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="41" column="40" lean-forward="false" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/Deck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="43" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/GoFish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#playerAskForRank#0;class#GoFish#0" expanded="false" />
+            <element signature="method#dealerAskForRank#0;class#GoFish#0" expanded="false" />
+            <element signature="method#removeBooks#0;class#GoFish#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/GoFishTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/CardGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <folding>
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/CheckForPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="method#setRankCount#0;class#CheckForPairs#0" expanded="false" />
+            <element signature="method#getBook#0;class#CheckForPairs#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/CheckForPairsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="41" column="40" lean-forward="false" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/Deck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="43" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -904,10 +1060,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/Deck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="43" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/CheckForPairsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="41" column="40" lean-forward="false" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/CheckForPairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="109" column="30" lean-forward="false" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="30" />
+        <state relative-caret-position="585">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding>
             <element signature="method#setRankCount#0;class#CheckForPairs#0" expanded="false" />
             <element signature="method#getBook#0;class#CheckForPairs#0" expanded="false" />
@@ -915,65 +1087,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/Card.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/GameMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/Deck.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="42" column="1" lean-forward="false" selection-start-line="42" selection-start-column="1" selection-end-line="43" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/CardGame.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/CardTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-          <folding>
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#712#713#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/GoFish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-218">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <element signature="method#playerAskForRank#0;class#GoFish#0" expanded="false" />
-            <element signature="e#1183#1184#0" expanded="true" />
-            <element signature="e#1237#1238#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/CheckForPairsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="41" column="40" lean-forward="false" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
+        <state relative-caret-position="105">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/GoFishTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="74" column="8" lean-forward="false" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+        <state relative-caret-position="29">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#349#350#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/GoFish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="method#playerAskForRank#0;class#GoFish#0" expanded="false" />
+            <element signature="method#dealerAskForRank#0;class#GoFish#0" expanded="false" />
+            <element signature="method#removeBooks#0;class#GoFish#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="method#Card#0;class#Card#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/CardGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/capriotti/anthony/Blackjack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1290">
+          <caret line="86" column="55" lean-forward="false" selection-start-line="86" selection-start-column="55" selection-end-line="86" selection-end-column="55" />
+          <folding>
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#707#708#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
+            <element signature="e#1105#1106#0" expanded="true" />
+            <element signature="e#1135#1136#0" expanded="true" />
+            <element signature="e#1161#1162#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1229#1230#0" expanded="true" />
+            <element signature="e#1253#1254#0" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+            <element signature="e#1318#1319#0" expanded="true" />
+            <element signature="e#1352#1353#0" expanded="true" />
+            <element signature="e#1382#1383#0" expanded="true" />
+            <element signature="e#1422#1423#0" expanded="true" />
+            <element signature="e#1447#1448#0" expanded="true" />
+            <element signature="e#1481#1482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/capriotti/anthony/CardTest/BlackjackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="118" column="27" lean-forward="false" selection-start-line="118" selection-start-column="27" selection-end-line="118" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -5,13 +5,19 @@ package capriotti.anthony.CardTest;
  */
 import capriotti.anthony.Card;
 import capriotti.anthony.CardGame;
+import capriotti.anthony.CheckForPairs;
 import capriotti.anthony.GoFish;
 import org.junit.Before;
 import org.junit.Test;
+
+import java.util.ArrayList;
+
 import static org.junit.Assert.*;
 
 public class GoFishTest {
     GoFish test;
+    CheckForPairs check;
+    ArrayList<Card> cards;
 
     @Before
     public void setup(){
@@ -69,17 +75,4 @@ public class GoFishTest {
         int actual = test.playerHand.size();
         assertEquals("Card is removed from players hand", expected, actual);
     }
-
-    @Test
-    public void removeBookTest(){
-
-
-
-
-    }
-
-
-
-
-
 }

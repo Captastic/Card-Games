@@ -6,11 +6,13 @@ import java.util.ArrayList;
  * Created by anthonycapriotti on 1/28/17.
  */
 public abstract class CardGame {
-     private Deck deck;
-     public ArrayList<Card> playerHand = new ArrayList();
-     public ArrayList<Card> dealerHand = new ArrayList();
+     protected Deck deck;
+     public ArrayList<Card> playerHand;
+     public ArrayList<Card> dealerHand;
 
      public CardGame(){
+         playerHand = new ArrayList<>();
+         dealerHand = new ArrayList<>();
          deck = new Deck();
 
      }
