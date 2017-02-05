@@ -27,6 +27,7 @@ public class CheckForPairsTest {
     }
 
     @Test
+    //testing the ability to have 4 of the same within hand
     public void checkForPairsTest(){
         int expected = 4;
         check.setRankCount(deck);
@@ -36,6 +37,7 @@ public class CheckForPairsTest {
     }
 
     @Test
+    //testing that a book of 4 of the same pairs return
     public void getBookTest(){
         check.setRankCount(deck);
         Card.Rank expected = Card.Rank.ACE;

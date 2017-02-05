@@ -20,6 +20,7 @@ public class CardTest {
 
 
     @Test
+    //tesing the suit type correctly being created and represented
     public void suitTest(){
         Suit expected = Suit.HEARTS;
         Suit actual = test.getSuit();
@@ -28,6 +29,7 @@ public class CardTest {
     }
 
     @Test
+    //testing the rankings being correctly represented
     public void rankTest(){
         Rank expected = Rank.KING;
         Rank actual = test.getRank();

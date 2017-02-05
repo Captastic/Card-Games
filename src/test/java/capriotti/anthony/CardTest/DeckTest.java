@@ -21,6 +21,7 @@ public class DeckTest {
 
 
     @Test
+    //testing the size of the deck
     public void deckSizeTest(){
          int expected = 52;
          int actual = test.getDeckSize();
@@ -28,6 +29,7 @@ public class DeckTest {
     }
 
     @Test
+    //testing the ability to draw one new card from the deck
     public void drawOnetest(){
         test.drawOne();
         int expected = 51;

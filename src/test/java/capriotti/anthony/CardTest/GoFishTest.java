@@ -25,6 +25,7 @@ public class GoFishTest {
     }
 
     @Test
+    //testing the player drawing a new card from the deck
     public void playerDrawsOneTest(){
         test.playerDrawsOne();
         int expected = 1;
@@ -33,6 +34,7 @@ public class GoFishTest {
     }
 
     @Test
+    //testing the dealer drawing one new card from the deck
     public void dealerDrawsOneTest(){
         test.dealerDrawsOne();
         int expected = 1;
@@ -41,6 +43,7 @@ public class GoFishTest {
     }
 
   @Test
+  //testing getting the player hand count
     public void  getPlayerHandCountTest(){
         int expected =7;
         int actual = test.getPlayerHandCount();
@@ -48,6 +51,7 @@ public class GoFishTest {
     }
 
     @Test
+    //testing getting the dealer hand count
     public void getDealerHandCountTest(){
         int expected = 7;
         int actual = test.getDealerHandCount();
@@ -55,6 +59,7 @@ public class GoFishTest {
     }
 
     @Test
+    //testing the player being able to ask for a specific rank card
     public void playerAsksForRankTest(){
         test.setHands();
         test.dealerHand.clear();
@@ -66,6 +71,7 @@ public class GoFishTest {
     }
 
     @Test
+    //testing the dealer being able to ask for a specific rank card
     public void dealerAsksForRankTest(){
         test.setHands();
         test.playerHand.clear();
